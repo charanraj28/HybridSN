@@ -5,7 +5,7 @@ In this Paper, we reduced the computational Complextiy of [Base HybridSN Model](
 This paper suggests using an Inception model between the 3D convolution and 2D convolution to decrease these computations. This research aims to use Indian Pines, University of Pavia, and Salinas Scene remote sensing datasets to lower the computing complexity of the Hybrid SN model while keeping good classification accuracy.
 
 ## Model
-<img src="https://github.com/chandrakiran08/HybridSN/assets/97818252/1637f785-7962-4591-9df1-9ed22bfed793">
+<img src="https://github.com/charanraj28/HybridSN/blob/8ebe47f4ba37d6caf88b4c2e9d93e1d437753fba/Model.png">
 Fig. Proposed Model with an idea of Inception Models between 3D and 2D CNN Layers
 
 ## Prerequisites
